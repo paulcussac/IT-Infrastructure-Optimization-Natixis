@@ -1,0 +1,6 @@
+pandas==1.5.0
+numpy==1.24.1
+fbprophet==0.7.1 
+streamlit==1.15.2
+plotly==5.12.0
+pathlib==1.0.1
